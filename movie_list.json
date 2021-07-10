@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "My Favorite Movies",
+      "date": "November 14, 2001",
+      "views": 1836,
+      "rating": 3.8,
+      "image": "/blob/main/banner.jpg",
+      "movieinfo": {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "poster": "/posters/harry_potter_sorcerers_stone.jpg"
+      },
+      "description": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world. "
+    }
+  ]
+}
