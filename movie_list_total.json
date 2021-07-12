@@ -1,0 +1,134 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Magic World",
+      "date": "November 14, 2001",
+      "views": 1836,
+      "rating": 3.6,
+      "image": "/blob/main/banner.jpg",
+      "author": {
+        "name": "Harry Potter and the Sorcerer's Stone",
+        "avatar": "/posters/harry_potter_sorcerers_stone.jpg"
+      },
+      "description": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world."
+    },
+    {
+      "id": 2,
+      "title": "Magic World",
+      "date": "November 14, 2002",
+      "views": 981,
+      "rating": 4.5,
+      "image": "/blob/main/banner.jpg",
+      "author": {
+        "name": "Harry Potter and the Chamber of Secrets",
+        "avatar": "/posters/harry_potter_sorcerers_stone.jpg"
+      },
+      "description": "An ancient prophecy seems to be coming true when a mysterious presence begins stalking the corridors of a school of magic and leaving its victims paralyzed."
+    },
+    {
+      "id": 3,
+      "title": "Magic World",
+      "date": "June 4, 2004",
+      "views": 1651,
+      "rating": 4.0,
+      "image": "/blob/main/banner.jpg",
+      "author": {
+        "name": "Harry Potter and the Prisoner of Azkaban",
+        "avatar": "/posters/harry_potter_azkaban.jpg"
+      },
+      "description": "Harry Potter, Ron and Hermione return to Hogwarts School of Witchcraft and Wizardry for their third year of study, where they delve into the mystery surrounding an escaped prisoner who poses a dangerous threat to the young wizard."
+    },
+    {
+      "id": 4,
+      "title": "Magic World",
+      "date": "March 1, 2016",
+      "views": 2419,
+      "rating": 4.1,
+      "image": "/blob/main/banner.jpg",
+      "author": {
+        "name": "Hadyn Armida",
+        "avatar": "/avatars/avatar4.jpg"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": 5,
+      "title": "Magic World",
+      "date": "June 25, 2015",
+      "views": 1124,
+      "rating": 4,
+      "image": "/blob/main/banner.jpg",
+      "author": {
+        "name": "Morgan Cortney",
+        "avatar": "/avatars/avatar5.jpg"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": 6,
+      "title": "Magic World",
+      "date": "November 29, 2014",
+      "views": 2549,
+      "rating": 3.8,
+      "image": "/blob/main/banner.jpg",
+      "author": {
+        "name": "Nisha Felicia",
+        "avatar": "/avatars/avatar6.jpg"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": 7,
+      "title": "Magic World",
+      "date": "April 6, 2013",
+      "views": 1356,
+      "rating": 5,
+      "image": "/blob/main/banner.jpg",
+      "author": {
+        "name": "Jaime Pramod",
+        "avatar": "/avatars/avatar7.jpg"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": 8,
+      "title": "Magic World",
+      "date": "July 17, 2012",
+      "views": 1589,
+      "rating": 4.3,
+      "image": "/blob/main/banner.jpg",
+      "author": {
+        "name": "Eva Sofie",
+        "avatar": "/avatars/avatar8.jpg"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": 9,
+      "title": "Lisbon",
+      "date": "June 27, 2011",
+      "views": 2687,
+      "rating": 4.4,
+      "image": "/blob/main/banner.jpg",
+      "author": {
+        "name": "Grayson Wells",
+        "avatar": "/avatars/avatar9.jpg"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": 10,
+      "title": "Barcelona",
+      "date": "January 31, 2011",
+      "views": 2687,
+      "rating": 4.4,
+      "image": "/blob/main/banner.jpg",
+      "author": {
+        "name": "Grayson Wells",
+        "avatar": "/avatars/avatar10.jpg"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    }
+  ]
+}
