@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Magic World",
+      "date": "November 14, 2001",
+      "views": 1836,
+      "rating": 3.6,
+      "image": "https://github.com/MelodyJoy7/AndroidMovieApp/blob/main/banner.jpg",
+      "video": "https://youtu.be/VyHV0BRtdxo",
+      "author": {
+        "name": "Harry Potter and the Sorcerer's Stone",
+        "avatar": "https://github.com/MelodyJoy7/AndroidMovieApp/blob/main/posters/harry_potter_sorcerers_stone.jpg"
+      },
+      "description": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world."
+    },
+    {
+      "id": 2,
+      "title": "Magic World",
+      "date": "November 14, 2002",
+      "views": 981,
+      "rating": 4.5,
+      "image": "https://github.com/MelodyJoy7/AndroidMovieApp/blob/main/banner.jpg",
+      "video": "https://youtu.be/onJQRCRORlM",
+      "author": {
+        "name": "Harry Potter and the Chamber of Secrets",
+        "avatar": "https://github.com/MelodyJoy7/AndroidMovieApp/blob/main/posters/harry_potter_chamber_secrets.jpg"
+      },
+      "description": "An ancient prophecy seems to be coming true when a mysterious presence begins stalking the corridors of a school of magic and leaving its victims paralyzed."
+    },
+    {
+      "id": 3,
+      "title": "Magic World",
+      "date": "June 4, 2004",
+      "views": 1651,
+      "rating": 4.0,
+      "image": "https://github.com/MelodyJoy7/AndroidMovieApp/blob/main/banner.jpg",
+      "video" : "https://youtu.be/1ZdlAg3j8nI",
+      "author": {
+        "name": "Harry Potter and the Prisoner of Azkaban",
+        "avatar": "https://github.com/MelodyJoy7/AndroidMovieApp/blob/main/posters/harry_potter_azkaban.jpg"
+      },
+      "description": "Harry Potter, Ron and Hermione return to Hogwarts School of Witchcraft and Wizardry for their third year of study, where they delve into the mystery surrounding an escaped prisoner who poses a dangerous threat to the young wizard."
+    }
+  ]
+}
